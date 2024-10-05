@@ -1,0 +1,15 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar los archivos de log de npm
+npm-debug.log
+
+# Ignorar directorios temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración específicos de la IDE
+.vscode/
+.idea/
+
+package-lock.json
